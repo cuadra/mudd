@@ -1,2 +1,2 @@
 # MarkupDocDown
-chrome://extensions/ > 'Developer Mode" > Load unpacked > Select Folter
+chrome://extensions/ > 'Developer Mode" > Load unpacked > Select Folder
