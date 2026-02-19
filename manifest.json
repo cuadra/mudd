@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "ToDOCX Exporter",
+  "version": "1.0.0",
+  "description": "Export main page content to DOCX.",
+  "permissions": ["activeTab", "scripting", "downloads"],
+  "background": {
+    "service_worker": "dist/background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Export page to DOCX"
+  }
+}
